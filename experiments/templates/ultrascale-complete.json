@@ -1,0 +1,8 @@
+{
+    "executable"    : "./SW_fpga/seqmatcher",
+    "num_threads"   : [1],
+    "length"        : ["100_160", "200_260", "300_360", "160", "200", "260", "300", "360"],
+    "nset"          : [1000, 5000, 10000, 100000],
+    "vaccel"        : [9, 12],
+    "benchmark"     : "benchmark.csv"
+}

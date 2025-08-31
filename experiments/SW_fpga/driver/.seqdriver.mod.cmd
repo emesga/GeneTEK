@@ -1,0 +1,1 @@
+cmd_/home/ssd/preesm/acceleratedgenome/SW/driver/seqdriver.mod := { echo  /home/ssd/preesm/acceleratedgenome/SW/driver/seqdriver.o;  echo; } > /home/ssd/preesm/acceleratedgenome/SW/driver/seqdriver.mod

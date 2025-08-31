@@ -1,0 +1,1 @@
+cmd_/home/ssd/preesm/acceleratedgenome/SW/driver/Module.symvers := sed 's/\.ko$$/\.o/' /home/ssd/preesm/acceleratedgenome/SW/driver/modules.order | scripts/mod/modpost   -E -o /home/ssd/preesm/acceleratedgenome/SW/driver/Module.symvers -e -i Module.symvers   -T -

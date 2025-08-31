@@ -1,0 +1,6 @@
+rm modules.order
+rm Module.symvers
+rm .seqdriver.*
+rm seqdriver.mod*
+rm seqdriver.ko*
+rm seqdriver.o

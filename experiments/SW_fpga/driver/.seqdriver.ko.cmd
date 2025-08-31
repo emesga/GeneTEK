@@ -1,0 +1,1 @@
+cmd_/home/ssd/preesm/acceleratedgenome/SW/driver/seqdriver.ko := ld -r -EL  -maarch64elf --build-id=sha1  -T scripts/module.lds -o /home/ssd/preesm/acceleratedgenome/SW/driver/seqdriver.ko /home/ssd/preesm/acceleratedgenome/SW/driver/seqdriver.o /home/ssd/preesm/acceleratedgenome/SW/driver/seqdriver.mod.o;  true
