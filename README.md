@@ -113,3 +113,17 @@ grep -i cma /proc/meminfo
 ```
 
 The `measure.sh` script will ask for the password every time a computation is longer than 10 minutes.
+
+## Citing
+Reference our [GeneTEK paper](https://arxiv.org/abs/2509.01020):
+```
+@misc{espinosa2025geneteklowpowerhighperformancescalable,
+      title={GeneTEK: Low-power, high-performance and scalable genome sequence matching in FPGAs}, 
+      author={Elena Espinosa and Rubén Rodríguez Álvarez and José Miranda and Rafael Larrosa and Miguel Peón-Quirós and Oscar Plata and David Atienza},
+      year={2025},
+      eprint={2509.01020},
+      archivePrefix={arXiv},
+      primaryClass={cs.AR},
+      url={https://arxiv.org/abs/2509.01020}, 
+}
+```
